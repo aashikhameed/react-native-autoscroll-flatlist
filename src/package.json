@@ -28,11 +28,9 @@
     "format": "yarn ts-node script/format.ts",
     "build": "yarn ts-node script/build.ts"
   },
-  "peerDependencies": {
+  "devDependencies": {
     "react": "^17.0.2",
     "react-native": "^0.64.3"
-  },
-  "devDependencies": {
     "@pinnacle0/eslint-plugin": "0.1.13",
     "@types/fs-extra": "9.0.11",
     "@types/react": "17.0.16",
